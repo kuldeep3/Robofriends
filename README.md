@@ -1,4 +1,8 @@
 # Robofriends
+![](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![](https://forthebadge.com/images/badges/uses-html.svg)
+![](https://forthebadge.com/images/badges/built-by-developers.svg)
+
 A React app with Babel(javascript) allows to search among various robots provided in the app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+![](https://github.com/kuldeep3/Robofriends/blob/master/screenshots/img1.png)
+![](https://github.com/kuldeep3/Robofriends/blob/master/screenshots/img2.png)
