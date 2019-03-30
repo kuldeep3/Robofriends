@@ -1,7 +1,13 @@
 # Robofriends
+![](https://img.shields.io/github/license/kuldeep3/Robofriends.svg)
+![](https://img.shields.io/github/repo-size/kuldeep3/Robofriends.svg)
+![](https://img.shields.io/github/languages/top/kuldeep3/Robofriends.svg)
+![](https://img.shields.io/github/package-json/v/kuldeep3/Robofriends.svg)
+
 ![](https://forthebadge.com/images/badges/made-with-javascript.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
-![](https://forthebadge.com/images/badges/built-by-developers.svg)
+
+
 
 A React app with Babel(javascript) allows to search among various robots provided in the app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
