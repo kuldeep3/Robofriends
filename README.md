@@ -1,8 +1,10 @@
 # Robofriends
-![](https://img.shields.io/github/license/kuldeep3/Robofriends.svg)
+[![](https://img.shields.io/github/license/kuldeep3/Robofriends.svg)](https://github.com/kuldeep3/Robofriends/blob/master/LICENSE.md)
 ![](https://img.shields.io/github/repo-size/kuldeep3/Robofriends.svg)
 ![](https://img.shields.io/github/languages/top/kuldeep3/Robofriends.svg)
 ![](https://img.shields.io/github/package-json/v/kuldeep3/Robofriends.svg)
+![](https://img.shields.io/github/contributors/kuldeep3/Robofriends.svg)
+![](https://img.shields.io/github/last-commit/kuldeep3/Robofriends.svg)
 
 ![](https://forthebadge.com/images/badges/made-with-javascript.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
