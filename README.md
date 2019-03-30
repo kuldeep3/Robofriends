@@ -1,5 +1,6 @@
 # Robofriends
 ![](https://img.shields.io/github/stars/kuldeep3/Robofriends.svg?style=social)
+![](https://img.shields.io/github/watchers/kuldeep3/Robofriends.svg?style=social)
 
 [![](https://img.shields.io/github/license/kuldeep3/Robofriends.svg)](https://github.com/kuldeep3/Robofriends/blob/master/LICENSE.md)
 ![](https://img.shields.io/github/repo-size/kuldeep3/Robofriends.svg)
